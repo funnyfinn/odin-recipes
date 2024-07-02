@@ -12,7 +12,8 @@
     margin: 20px;
 }
 
-.box-ingr {
+ul.no-bullets {
+    list-style-type: none;
     background-color: #eee;
     padding: 20px;
     margin: 0px;
