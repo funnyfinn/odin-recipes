@@ -23,6 +23,7 @@
 
 .box-three {
     background-color: #eee;
-    padding: 0px;
+    margin: 0px;
+    padding: 20px;
     border: 0 solid blue;
 }
