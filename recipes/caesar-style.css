@@ -9,19 +9,20 @@
     font-family: monospace;
 }
 
-.box-one {
+.box-desc {
     background-color: #eee;
     padding: 20px;
     border: 0 solid blue;
 }
 
-.box-two {
+.box-ingr {
     background-color: #eee;
     padding: 20px;
+    margin: 0px;
     border: 0 solid blue;
 }
 
-.box-three {
+.box-prep {
     background-color: #eee;
     margin: 0px;
     padding: 20px;
