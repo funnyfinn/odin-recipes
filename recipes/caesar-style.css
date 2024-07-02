@@ -20,3 +20,9 @@
     padding: 20px;
     border: 0 solid blue;
 }
+
+.box-three {
+    background-color: #eee;
+    padding: 0px;
+    border: 0 solid blue;
+}
