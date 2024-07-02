@@ -10,14 +10,12 @@
     background-color: #eee;
     padding: 20px;
     margin: 20px;
-    border: 0 solid blue;
 }
 
 .box-ingr {
     background-color: #eee;
     padding: 20px;
     margin: 0px;
-    border: 0 solid blue;
 }
 
 .box-prep {
@@ -25,5 +23,4 @@
     margin: 0px;
     padding: 20px;
     margin: 20px;
-    border: 0 solid blue;
 }
