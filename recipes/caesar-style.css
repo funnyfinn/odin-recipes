@@ -24,3 +24,9 @@ ul.list {
     margin: 0px;
     padding: 20px;
 }
+
+.responsive {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
