@@ -12,7 +12,7 @@
     margin: 20px;
 }
 
-ul.no-bullets {
+ul.list {
     list-style-type: none;
     background-color: #eee;
     padding: 20px;
